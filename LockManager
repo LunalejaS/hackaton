@@ -1,0 +1,28 @@
+// CLASE LOCKMANAGER QUE PERMITIRÁ EL CONTROL DE ACCESO A LA CARPETA "COMPARTIDA"
+
+/**
+* @Brainstrorms
+* 07/07/2025
+* v.01
+*/
+
+import java.util.concurrent.Locks; // Importamos la libreria que nos permitirá usar los métodos .lock() y .unlock() para bloquear y desbloquar el archivo a nuestra conveniencia
+import java.io.File; // Impoprtamos la libreria que nos permitirá manejar archivos y verificar si existen, crearlos, eliminarlos...
+import.java.io.IOException; // Importamos la libreria que nos permitirá intentar crear un archivo si ocurre un error inesperado.
+
+public static void maib(String[] args){
+    /**
+     * La clase pública LockManager permitirá controlar el acceso a la carpeta compartida
+     */
+    public class LockManager{
+        //Ruta base a la carpeta compartida en red
+        private static final String CARPETA_COMPARTIDA = "\\LABING501-06\Users\estudiantes\Documents\Compartida";
+        //Método 1. Método para adquirir el lock
+        /**
+         * 
+         */
+        public static boolean acquireLock(String /* fileNameSinExtension */){
+
+        }
+    }
+}
