@@ -1,0 +1,2 @@
+12345|07/07/2025 11:30:12|si esta bien, la verdad no me gusta
+|214:221:178|false
