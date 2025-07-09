@@ -1,0 +1,8 @@
+2025-07-08T08:22:32.536125 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T08:23:30.081973500 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T08:23:48.627737100 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T08:24:14.872327100 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T08:28:15.299748300 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T08:31:07.712460100 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T09:07:01.999646900 - Error cargando usuarios: usuarios.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T13:02:59.212060300 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)

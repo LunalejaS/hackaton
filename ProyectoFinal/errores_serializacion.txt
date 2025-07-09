@@ -1,0 +1,3 @@
+2025-07-08T18:04:29.302188200 - Error cargando usuarios: usuarios.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T18:04:29.414231200 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
+2025-07-08T18:04:41.058865900 - Error cargando ideas: ideas.dat (El sistema no puede encontrar el archivo especificado)
