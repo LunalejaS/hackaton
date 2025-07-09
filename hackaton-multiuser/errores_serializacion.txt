@@ -1,0 +1,5 @@
+2025-07-08T20:09:07.262751100 - Error cargando usuarios: usuarios.dat (The system cannot find the file specified)
+2025-07-08T20:09:07.316917300 - Error cargando ideas: ideas.dat (The system cannot find the file specified)
+2025-07-08T20:10:05.729257800 - Error cargando ideas: ideas.dat (The system cannot find the file specified)
+2025-07-08T20:10:12.190110400 - Error cargando ideas: ideas.dat (The system cannot find the file specified)
+2025-07-08T20:10:22.998888200 - Error cargando ideas: ideas.dat (The system cannot find the file specified)
